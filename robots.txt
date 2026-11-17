@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /enviar-orcamento.php
+Disallow: /obrigado.html
+
+Sitemap: https://vrf360.com.br/sitemap.xml
